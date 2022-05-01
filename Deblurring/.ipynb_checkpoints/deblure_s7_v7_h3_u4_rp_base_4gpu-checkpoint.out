@@ -1,0 +1,12 @@
+20,657,800 total parameters.
+20,657,800 training parameters.
+
+
+Let's use 4 GPUs!
+
+
+===> Start Epoch 1 End Epoch 3001
+===> Loading datasets
+------------------------------------------------------------------
+Epoch: 1	Time: 300.4896	Loss: 339.0516	LearningRate 0.000067
+------------------------------------------------------------------
