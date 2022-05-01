@@ -11,7 +11,7 @@
 ## :art: Tasks
 ### 🚩Deblurring🚩
  <img src="/figs/t_blur.PNG"   width="50%">
-![Network](/figs/f_blur.PNG)
+![blur](/figs/f_blur.PNG)
 
 ### 🚩Deraining🚩
 
