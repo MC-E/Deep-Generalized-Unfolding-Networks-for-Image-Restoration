@@ -15,10 +15,16 @@
 ![blur](/figs/f_blur.PNG)
 
 ### 🚩Deraining🚩
+![rain](/figs/t_rain.PNG)
+![rain](/figs/f_rain.PNG)
 
 ### 🚩Denoising🚩
+ <img src="/figs/t_noise.PNG"   width="50%">
+ 
+ ![noise](/figs/f_noise.PNG)
 
 ### 🚩Compressive Sensing🚩
+ ![noise](/figs/ft_cs.PNG)
 
 ## :wrench: Installation
 The model is built in PyTorch 1.1.0 and tested on Ubuntu 16.04 environment (Python3.7, CUDA9.0, cuDNN7.5).
