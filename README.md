@@ -5,10 +5,11 @@
 
 > **Abstract:** *Deep neural networks (DNN) have achieved great success in image restoration. However, most DNN methods are designed as a black box, lacking transparency and interpretability. Although some methods are proposed to combine traditional optimization algorithms with DNN, they usually demand pre-defined degradation processes or handcrafted assumptions, making it difficult to deal with complex and real-world applications. In this paper, we propose a Deep Generalized Unfolding Network (DGUNet) for image restoration. Concretely, without loss of interpretability, we integrate a gradient estimation strategy into the gradient descent step of the Proximal Gradient Descent (PGD) algorithm, driving it to deal with complex and real-world image degradation. In addition, we design inter-stage information pathways across proximal mapping in different PGD iterations to rectify the intrinsic information loss in most deep unfolding networks (DUN) through a multi-scale and spatial-adaptive way. By integrating the flexible gradient descent and informative proximal mapping, we unfold the iterative PGD algorithm into a trainable DNN. Extensive experiments on various image restoration tasks demonstrate the superiority of our method in terms of state-of-the-art performance, interpretability, and generalizability.* 
 
-## Network Architecture
+## :fire: Network Architecture
 
+## :art: Tasks
 
-## Installation
+## :wrench: Installation
 The model is built in PyTorch 1.1.0 and tested on Ubuntu 16.04 environment (Python3.7, CUDA9.0, cuDNN7.5).
 
 For installing, follow these intructions
@@ -25,10 +26,13 @@ Install warmup scheduler
 cd pytorch-gradual-warmup-lr; python setup.py install; cd ..
 ```
 
-## Training and Evaluation
+## :computer: Training and Evaluation
 
 Training and Testing codes for deblurring, deraining and denoising are provided in their respective directories.
 
+## :european_castle: Model Zoo
+
+[Google Drive](https://drive.google.com/file/d/1bitvtmJAE1iKpFmdGx3OrN6Xti0JRPLc/view?usp=sharing)
 
 ## Citation
 If you use DGUNet, please consider citing:
