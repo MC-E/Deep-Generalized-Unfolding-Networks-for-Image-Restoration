@@ -65,5 +65,5 @@ If you use DGUNet, please consider citing:
 
 If you have any question, please email `eechongm@gmail.com`.
 
-## Acknowledgements
+## :hugs: Acknowledgements
 This code is built on [MPRNet (PyTorch)](https://github.com/swz30/MPRNet). We thank the authors for sharing their codes of MPRNet.
