@@ -53,7 +53,7 @@ Please download from [Google Drive](https://drive.google.com/file/d/1bitvtmJAE1i
 ### For Compressive Sensing
 Please download from [Google Drive](https://drive.google.com/file/d/1euV8SnXHuYswwbm9FaV1y5RQRLd58ou_/view?usp=sharing).
 
-## 📑: Citation
+## 📑 Citation
 If you use DGUNet, please consider citing:
 
     @inproceedings{Mou2022DGUNet,
