@@ -49,7 +49,7 @@ Training and Testing codes for deblurring, deraining and denoising are provided 
 
 ## :european_castle: Model Zoo
 
-[Google Drive](https://drive.google.com/file/d/1bitvtmJAE1iKpFmdGx3OrN6Xti0JRPLc/view?usp=sharing)
+Please download from [Google Drive](https://drive.google.com/file/d/1bitvtmJAE1iKpFmdGx3OrN6Xti0JRPLc/view?usp=sharing).
 
 ## Citation
 If you use DGUNet, please consider citing:
