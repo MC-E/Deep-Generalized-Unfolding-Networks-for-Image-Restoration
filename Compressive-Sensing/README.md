@@ -19,7 +19,7 @@ Step 2: python train_plus_deblock.py
 
 ### Download the [model](https://drive.google.com/file/d/1euV8SnXHuYswwbm9FaV1y5RQRLd58ou_/view?usp=sharing) and place it in ./model/
 
-- Download [images](https://drive.google.com/drive/folders/1a2qKfXWpNuTGOm2-Jex8kfNSzYJLbqkf?usp=sharing) of GoPro and place them in `./Datasets/`
+- Download [images](https://drive.google.com/drive/folders/1a2qKfXWpNuTGOm2-Jex8kfNSzYJLbqkf?usp=sharing) of Set11 & BSD68 and place them in `./Datasets/`
 - Run
 ```
 python test_deblock.py
