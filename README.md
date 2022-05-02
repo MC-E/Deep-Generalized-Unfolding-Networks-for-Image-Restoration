@@ -1,5 +1,5 @@
 # Deep Generalized Unfolding Networks for Image Restoration 
-(CVPR 2022)
+# (CVPR 2022)
 [Chong Mou](https://scholar.google.com.hk/citations?user=SYQoDk0AAAAJ&hl=en), Qian Wang, [Jian Zhang](https://jianzhang.tech/)
 
 [Paper](https://arxiv.org/abs/2204.13348)
