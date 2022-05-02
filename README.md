@@ -48,8 +48,10 @@ cd pytorch-gradual-warmup-lr; python setup.py install; cd ..
 Training and Testing codes for deblurring, deraining and denoising are provided in their respective directories.
 
 ## :european_castle: Model Zoo
-
+### For Deblurring, Deraining, Denoising
 Please download from [Google Drive](https://drive.google.com/file/d/1bitvtmJAE1iKpFmdGx3OrN6Xti0JRPLc/view?usp=sharing).
+### For Compressive Sensing
+Please download from [Google Drive](https://drive.google.com/file/d/1euV8SnXHuYswwbm9FaV1y5RQRLd58ou_/view?usp=sharing).
 
 ## 📑: Citation
 If you use DGUNet, please consider citing:
