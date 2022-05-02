@@ -6,6 +6,7 @@
 
 ```
 python train.py
+python train_plus.py
 ```
 
 
@@ -18,6 +19,7 @@ python train.py
 3. Run
 ```
 python test.py
+python test_plus.py
 ```
 
 #### To reproduce PSNR/SSIM scores of the paper, run
