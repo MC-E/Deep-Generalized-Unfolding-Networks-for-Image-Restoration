@@ -51,7 +51,7 @@ Training and Testing codes for deblurring, deraining and denoising are provided 
 
 Please download from [Google Drive](https://drive.google.com/file/d/1bitvtmJAE1iKpFmdGx3OrN6Xti0JRPLc/view?usp=sharing).
 
-## Citation
+## 📑: Citation
 If you use DGUNet, please consider citing:
 
     @inproceedings{Mou2022DGUNet,
