@@ -9,6 +9,7 @@ python generate_patches_SIDD.py --ps 256 --num_patches 300 --num_cores 10
 
 ```
 python train.py
+python train_plus.py
 ```
 
 
@@ -20,7 +21,8 @@ python train.py
 - Download SIDD Validation Data and Ground Truth from [here](https://www.eecs.yorku.ca/~kamel/sidd/benchmark.php) and place them in `./Datasets/SIDD/test/`
 - Run
 ```
-python test_SIDD.py --save_images
+python test.py --save_images
+python test_plus.py --save_images
 ```
 
 #### To reproduce PSNR/SSIM scores of the paper, run MATLAB script
