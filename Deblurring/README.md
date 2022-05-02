@@ -5,6 +5,7 @@
 
 ```
 python train.py
+python train_plus.py
 ```
 
 ## Evaluation
@@ -16,6 +17,7 @@ python train.py
 - Run
 ```
 python test.py --dataset GoPro
+python test_plus.py --dataset GoPro
 ```
 
 #### Testing on HIDE dataset
@@ -23,31 +25,10 @@ python test.py --dataset GoPro
 - Run
 ```
 python test.py --dataset HIDE
-```
-
-
-#### Testing on RealBlur-J dataset
-- Download [images](https://drive.google.com/drive/folders/1KYtzeKCiDRX9DSvC-upHrCqvC4sPAiJ1?usp=sharing) of RealBlur-J and place them in `./Datasets/RealBlur_J/test/`
-- Run
-```
-python test.py --dataset RealBlur_J
-```
-
-
-
-#### Testing on RealBlur-R dataset
-- Download [images](https://drive.google.com/drive/folders/1EwDoajf5nStPIAcU4s9rdc8SPzfm3tW1?usp=sharing) of RealBlur-R and place them in `./Datasets/RealBlur_R/test/`
-- Run
-```
-python test.py --dataset RealBlur_R
+python test_plus.py --dataset HIDE
 ```
 
 #### To reproduce PSNR/SSIM scores of the paper on GoPro and HIDE datasets, run this MATLAB script
 ```
 evaluate_GOPRO_HIDE.m 
-```
-
-#### To reproduce PSNR/SSIM scores of the paper on RealBlur dataset, run
-```
-evaluate_RealBlur.m 
 ```
