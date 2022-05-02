@@ -8,7 +8,7 @@
 ## :fire: Network Architecture
 ![Network](/figs/network.PNG)
 
-## :art: Tasks
+## :art: Applications
 ### 🚩Deblurring🚩
  <img src="/figs/t_blur.PNG"   width="50%">
  
