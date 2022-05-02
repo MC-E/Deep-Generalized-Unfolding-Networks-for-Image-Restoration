@@ -23,7 +23,7 @@ parser = argparse.ArgumentParser(description='Image Denoising using MPRNet')
 
 parser.add_argument('--input_dir', default='./Datasets/SIDD/test/', type=str, help='Directory of validation images')
 parser.add_argument('--result_dir', default='results/SIDD/DGUNet_x8', type=str, help='Directory for results')
-parser.add_argument('--weights', default='ckp_off_my/DGUNet.pth', type=str, help='Path to weights')
+parser.add_argument('--weights', default='pretrained_models/DGUNet.pth', type=str, help='Path to weights')
 parser.add_argument('--gpus', default='0', type=str, help='CUDA_VISIBLE_DEVICES')
 parser.add_argument('--save_images', action='store_true', help='Save denoised images in result directory')
 
