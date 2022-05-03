@@ -45,7 +45,7 @@ cd pytorch-gradual-warmup-lr; python setup.py install; cd ..
 
 ## :computer: Training and Evaluation
 
-Training and Testing codes for deblurring, deraining and denoising are provided in their respective directories.
+Training and Testing codes for deblurring, deraining, denoising and compressive sensing are provided in their respective directories.
 
 ## :european_castle: Model Zoo
 ### For Deblurring, Deraining, Denoising
