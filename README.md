@@ -28,7 +28,7 @@
 
 ## :wrench: Installation
 The model is built in PyTorch 1.1.0 and tested on Ubuntu 16.04 environment (Python3.7, CUDA9.0, cuDNN7.5).
-The model is trained with 2 NVIDIA V100 GPU.
+The model is trained with 2 NVIDIA V100 GPUs.
 
 For installing, follow these intructions
 ```
