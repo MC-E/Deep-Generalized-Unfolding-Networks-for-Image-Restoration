@@ -25,6 +25,14 @@ python test.py --save_images
 python test_plus.py --save_images
 ```
 
+#### Testing on DND dataset
+- Download DND Benchmark Data from [here](https://noise.visinf.tu-darmstadt.de/downloads/) and place it in `./Datasets/DND/test/`
+- Run
+```
+python test_DND.py --save_images
+python test_DND_plus.py --save_images
+```
+
 #### To reproduce PSNR/SSIM scores of the paper, run MATLAB script
 ```
 evaluate_SIDD.m
