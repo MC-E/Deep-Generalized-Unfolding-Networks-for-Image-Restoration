@@ -32,6 +32,10 @@ python test_plus.py --save_images
 python test_DND.py --save_images
 python test_DND_plus.py --save_images
 ```
+- Quick start
+```
+python demo_DND.py
+```
 
 #### To reproduce PSNR/SSIM scores of the paper, run MATLAB script
 ```
