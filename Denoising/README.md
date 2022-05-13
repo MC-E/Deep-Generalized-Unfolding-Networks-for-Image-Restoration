@@ -32,7 +32,7 @@ python test_plus.py --save_images
 python test_DND.py --save_images
 python test_DND_plus.py --save_images
 ```
-- Quick start
+- Quick inference
 ```
 python demo_DND.py
 ```
